@@ -35,6 +35,7 @@ Trabalho em projetos proprietários de software, cloud e edge. Por confidenciali
 
 ## Contato
 
+- E-mail: ruansarmento732@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ruan-oliveira-sarmento-2837b617/)
 - [GitHub](https://github.com/RuanOlive)
 
