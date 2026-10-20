@@ -4,7 +4,7 @@
 
 Construo e opero sistemas em produção de ponta a ponta: APIs, filas, bancos de dados, workers na edge, deploy e observabilidade. Gosto do tipo de problema que só aparece com tráfego real — e de deixar o sistema mais simples depois de resolver.
 
-📍 Ribeirão Pires, SP · Aberto a oportunidades em **Backend, Cloud, DevOps/Platform e Security**
+Tenho interesse em projetos desafiadores — se tiver um, [entre em contato](#contato).
 
 ---
 
