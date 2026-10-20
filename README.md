@@ -6,7 +6,11 @@ Hoje construo e mantenho sistemas que rodam em produção, cuidando de tudo: có
 
 Tenho interesse em projetos desafiadores. Se tiver um, [entre em contato](#contato).
 
-## Projetos em que trabalho
+## Cerberus
+
+Sou cofundador da [Cerberus](https://cerberus-cloaker.com), um sistema anti-bot para quem roda anúncios no Meta Ads, Kwai Ads e TikTok Ads. Ele protege as campanhas de bots e de ataques de concorrentes. Cada visita é analisada em menos de 50ms com fingerprint de Canvas e WebGL, ASN, ISP, geolocalização e comportamento, e só o tráfego real chega na página do anunciante.
+
+## Outros projetos
 
 Plataforma de monetização de anúncios em tempo real, com API em Go, PostgreSQL e ClickHouse. Ela ajusta o preço mínimo dos anúncios para cada segmento de tráfego usando algoritmos multi-armed bandit e se integra ao Google Ad Manager.
 
