@@ -1,43 +1,42 @@
 # Ruan Oliveira
 
-**Engenheiro de Software · Backend, Cloud/Edge e Platform Engineering**
+Engenheiro de software. Trabalho principalmente com backend, cloud e infraestrutura.
 
-Construo e opero sistemas em produção de ponta a ponta: APIs, filas, bancos de dados, workers na edge, deploy e observabilidade. Gosto do tipo de problema que só aparece com tráfego real — e de deixar o sistema mais simples depois de resolver.
+Hoje construo e mantenho sistemas que rodam em produção, cuidando de tudo: código, banco de dados, deploy, monitoramento e os incidentes quando algo quebra.
 
-Tenho interesse em projetos desafiadores — se tiver um, [entre em contato](#contato).
+Tenho interesse em projetos desafiadores. Se tiver um, [entre em contato](#contato).
 
----
+## Projetos em que trabalho
 
-## O que tenho construído
+Plataforma de monetização de anúncios em tempo real, com API em Go, PostgreSQL e ClickHouse. Ela ajusta o preço mínimo dos anúncios para cada segmento de tráfego usando algoritmos multi-armed bandit e se integra ao Google Ad Manager.
 
-- **Plataforma de monetização de anúncios em tempo real** — API em Go, PostgreSQL e ClickHouse, otimização de preço mínimo por segmento de tráfego com algoritmos multi-armed bandit, integração com Google Ad Manager e entrega via CDN própria.
-- **E-commerce multi-tenant serverless** — API em Cloudflare Workers com D1 e R2, painel administrativo e storefront em Astro no Cloudflare Pages.
-- **Infraestrutura distribuída de automação de navegadores** — orquestração de perfis isolados de navegador em escala, em TypeScript.
-- **SaaS de checkout** — Cloudflare Workers com integração de pagamentos.
-- **Visão computacional** — detecção de eventos em vídeo de câmeras com Python.
+E-commerce multi-tenant rodando em Cloudflare Workers, com D1 e R2, painel administrativo e loja em Astro no Cloudflare Pages.
 
-Em todos eles cuido do ciclo inteiro: modelagem, código, CI/CD, deploy em Linux/Docker, monitoramento e resposta a incidentes.
+Infraestrutura distribuída para automação de navegadores em escala, em TypeScript.
 
-> A maior parte desse trabalho está em repositórios privados (5 mil+ contribuições no último ano). Arquitetura, decisões técnicas e problemas resolvidos eu mostro com prazer numa conversa.
+SaaS de checkout em Cloudflare Workers com integração de pagamentos.
 
-## Stack
+Detecção de eventos em vídeo de câmeras, em Python.
 
-| Área | Ferramentas |
+Quase tudo isso está em repositórios privados, por isso meu perfil público parece mais vazio do que é. Posso mostrar arquitetura e decisões técnicas numa conversa.
+
+## Tecnologias
+
+| Área | |
 |---|---|
 | Backend | Go, TypeScript/Node.js (NestJS, Fastify), Python |
-| Dados e mensageria | PostgreSQL, ClickHouse, Redis, RabbitMQ, Prisma |
-| Edge e cloud | Cloudflare Workers, Pages, D1, R2, KV, Custom Hostnames |
-| Infra e operação | Linux, Docker, systemd, GitHub Actions, Grafana k6 |
+| Dados | PostgreSQL, ClickHouse, Redis, RabbitMQ, Prisma |
+| Cloud | Cloudflare Workers, Pages, D1, R2, KV |
+| Infra | Linux, Docker, systemd, GitHub Actions, k6 |
 | Frontend | Svelte, React, Astro |
-| Segurança | OAuth/JWT, proteção de origem, filtragem de tráfego, criptografia aplicada |
 
 ## Projetos públicos
 
-- [**back-end-todo**](https://github.com/RuanOlive/back-end-todo) — API REST com NestJS, Prisma, PostgreSQL, JWT e Docker.
-- [**Troca-De-chaves-Diffie-Hellman**](https://github.com/RuanOlive/Troca-De-chaves-Diffie-Hellman) — implementação e estudo do Diffie-Hellman em Python, com foco em ataques como o Logjam.
-- [**Criar-Ambiente-Babel-WebPack-ShellScript**](https://github.com/RuanOlive/Criar-Ambiente-Babel-WebPack-ShellScript) — script que monta um ambiente Node.js com Babel e Webpack automaticamente.
+- [back-end-todo](https://github.com/RuanOlive/back-end-todo): API REST com NestJS, Prisma, PostgreSQL, JWT e Docker.
+- [Troca-De-chaves-Diffie-Hellman](https://github.com/RuanOlive/Troca-De-chaves-Diffie-Hellman): estudo do Diffie-Hellman em Python e de ataques como o Logjam.
+- [Criar-Ambiente-Babel-WebPack-ShellScript](https://github.com/RuanOlive/Criar-Ambiente-Babel-WebPack-ShellScript): script que configura Babel e Webpack num projeto Node.js.
 
 ## Contato
 
 - E-mail: [ruansarmento732@gmail.com](mailto:ruansarmento732@gmail.com)
-- LinkedIn: [ruan-oliveira-sarmento](https://www.linkedin.com/in/ruan-oliveira-sarmento-2837b6171/)
+- [LinkedIn](https://www.linkedin.com/in/ruan-oliveira-sarmento-2837b6171/)
